@@ -1,5 +1,6 @@
 # FreeCodeCamp survey form project
 
+Project part of the Responsive Web Design certificate:
 https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form
 
 User Story #1: I can see a title with id="title" in H1 sized text.
